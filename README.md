@@ -53,7 +53,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
+![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-1.png)
 
 
 ### PREPROCESSING
