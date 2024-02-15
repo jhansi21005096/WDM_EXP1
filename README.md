@@ -54,7 +54,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-1.png)
-
+![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-2.png)
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,7 +75,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-2.png)
+
+![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-3.png)
+![output]()
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
