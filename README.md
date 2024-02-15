@@ -93,7 +93,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-
+![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-5.png)
+![output](https://github.com/jhansi21005096/WDM_EXP1/blob/main/output-6.png)
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
